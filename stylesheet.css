@@ -4,6 +4,6 @@ h1 {
 
 body {
     background-color: red;
-    align-self: center;
-    bottom: 0   ;
+    align-self: start;
+    bottom: 12;
 }
